@@ -10,6 +10,12 @@ export const navDiv = styled.div `
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  
+  background-color: ${({ theme }) => theme.colors.background};
 `;
 
 export const navList = styled.ul`
