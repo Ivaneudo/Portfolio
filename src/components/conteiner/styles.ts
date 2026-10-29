@@ -24,6 +24,7 @@ export const ProjetosDiv = styled.div `
   display: flex;
   flex-direction: column;
   width: 100%;
+  margin-top: 5rem;
 `;
 
 export const Projetos = styled.div `
