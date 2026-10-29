@@ -19,3 +19,15 @@ export const containerSection = styled.div `
   justify-content: center;
   text-align: center;
 `;
+
+export const ProjetosDiv = styled.div `
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+`;
+
+export const Projetos = styled.div `
+  display: flex;
+  padding: 1rem 2rem;
+  gap: 1rem;
+`;

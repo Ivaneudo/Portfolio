@@ -20,7 +20,7 @@ export const navDiv = styled.div `
 
 export const navList = styled.ul`
   display: flex;
-  align-items: center; /* Centraliza verticalmente */
+  align-items: center; 
   height: 100%;
   gap: 1.5rem;
   
