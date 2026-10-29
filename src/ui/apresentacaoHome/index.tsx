@@ -1,0 +1,51 @@
+import { Icons } from "../../components/IconsDigitais"
+import { Cargo, Resumo, TextSpan } from "../../components/Text/styles"
+import { HomeDiv, StacksDiv } from "./styles"
+
+export const ApresentacaoHome = () => {
+  return (
+    <HomeDiv id="home">
+      <img src="src\Img\ivaneudo.png" alt="" />
+      <Cargo>Desenvolvedor <TextSpan>Full-Stack</TextSpan></Cargo>
+      <Resumo>Engenheiro de Software Full-Stack focado em criar aplicações web escaláveis, APIs robustas e experiências digitais com impacto real.</Resumo>
+      <StacksDiv>
+        <Icons 
+          src="https://skillicons.dev/icons?i=java" 
+          alt="java"
+        />
+        <Icons 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg"
+          alt="quarkus"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=spring" 
+          alt="springboot"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=ts" 
+          alt="typescript"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=react" 
+          alt="react"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=postgres" 
+          alt="postgreSQL"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=docker" 
+          alt="docker"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=linux" 
+          alt="linux"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=git" 
+          alt="git"
+        />
+      </StacksDiv>
+    </HomeDiv>
+  )
+}

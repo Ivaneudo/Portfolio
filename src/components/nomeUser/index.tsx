@@ -1,10 +1,10 @@
-import * as Y from "../TextBold/styles"
+import * as Y from "../Text/styles"
 import * as S from "./styles"
 
 export const Nome = ({...props}) => {
   return (
     <S.userDiv>
-      <S.userName>{props.nome} <Y.textSpan>{props.sobrenome}</Y.textSpan></S.userName>
+      <S.userName>{props.nome} <Y.TextSpan>{props.sobrenome}</Y.TextSpan></S.userName>
     </S.userDiv>
   )
 }

@@ -9,3 +9,13 @@ export const conteinerGlobal = styled.div `
   flex-direction: column;
   background-color: ${({theme}) => theme.colors.background};
 `;
+
+export const containerSection = styled.div `
+  width: 100vw;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+`;
