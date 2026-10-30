@@ -29,7 +29,7 @@ export const SobreMim = () => {
         <Icons 
           src="https://skillicons.dev/icons?i=instagram" 
           alt="instagrma"
-          href="https://www.instagram.com/ivaneudo.dev/" 
+          href="https://instagram.com/ivaneudo.dev/" 
         />
         <Icons 
           src="https://skillicons.dev/icons?i=linkedin" 
