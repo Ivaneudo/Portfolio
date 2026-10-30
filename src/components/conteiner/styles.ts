@@ -21,15 +21,22 @@ export const containerSection = styled.div `
   text-align: center;
 `;
 
-export const ProjetosDiv = styled.div `
+export const Div = styled.div `
   display: flex;
   flex-direction: column;
   width: 100%;
   margin-top: 5rem;
+  padding: 1rem;
+  gap: 2rem;
 `;
 
 export const Projetos = styled.div `
   display: flex;
   padding: 1rem 2rem;
+  gap: 1rem;
+`;
+
+export const Redes = styled.div `
+  display: flex;
   gap: 1rem;
 `;

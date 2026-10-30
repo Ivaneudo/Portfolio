@@ -1,10 +1,10 @@
-import { ProjetosDiv } from "../components/conteiner/styles"
+import { Div } from "../components/conteiner/styles"
 import { Projeto } from "../components/Projeto/index"
 import { TextH2 } from "../components/Text/styles"
 
 export const Projetos = () => {
   return (
-    <ProjetosDiv id="projetos">
+    <Div id="projetos">
       <TextH2>Projetos</TextH2>
       <Projeto 
         nome="Raizes Digitais"
@@ -99,6 +99,6 @@ export const Projetos = () => {
           />,
         ]}
       />
-    </ProjetosDiv>
+    </Div>
   )
 }
