@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da primeira versão do meu portfólio profissional! Este projeto foi desenvolvido para apresentar meus projetos, habilidades e trajetórias na área de desenvolvimento de software.
 
-🔗 **Acesse o portfólio online:** [https://seu-link-aqui.com](https://seu-link-aqui.com)
+🔗 **Acesse o portfólio online:** [Portfolio](https://ivaneudo-portfolio.vercel.app/) 
 
 > ⚠️ **Nota da versão (v1.0):** Esta é a primeira versão do site e atualmente está **otimizada apenas para visualização no computador (desktop)**. A versão responsiva para dispositivos móveis está em desenvolvimento para as próximas atualizações!
 
