@@ -1,4 +1,3 @@
-import { FaCss3Alt, FaHtml5, FaJs } from "react-icons/fa"
 import { ProjetosDiv } from "../components/conteiner/styles"
 import { Projeto } from "../components/Projeto/index"
 import { TextH2 } from "../components/Text/styles"

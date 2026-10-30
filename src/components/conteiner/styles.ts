@@ -4,9 +4,10 @@ export const conteinerGlobal = styled.div `
   width: 100vw;
   min-height: 100vh;
   margin: 0;
-  padding: 1rem;
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   background-color: ${({theme}) => theme.colors.background};
 `;
 

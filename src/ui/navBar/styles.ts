@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 
 export const navDiv = styled.div `
-  width: 98vw;
+  width: 100%;
   padding: 1rem 2rem;
   background-color: transparent;
   border: 1px solid ${({theme}) => theme.colors.border};
