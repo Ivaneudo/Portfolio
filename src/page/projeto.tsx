@@ -89,7 +89,7 @@ export const Projetos = () => {
         imagem={arch}
         altImg="Interface do Hyprland"
         resumo="Repositório desenvolvimento para auxiliar novos usuários do mundo Arch a conseguir um sistemas simples, bonito e funcional. O repositório também é um meio de conseguir recuperar o sistema em casos de insidentes. "
-        url="https://github.com/Ivaneudo/fica-comigo"
+        url="https://github.com/Ivaneudo/Arch-Hyprland"
         tecnologias={[
           <img 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" 
