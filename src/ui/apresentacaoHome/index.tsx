@@ -35,8 +35,8 @@ export const ApresentacaoHome = () => {
           alt="docker"
         />
         <Icons 
-          src="https://skillicons.dev/icons?i=linux" 
-          alt="linux"
+          src="https://skillicons.dev/icons?i=arch" 
+          alt="arch"
         />
         <Icons 
           src="https://skillicons.dev/icons?i=git" 
