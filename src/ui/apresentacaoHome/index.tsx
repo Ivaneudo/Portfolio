@@ -11,8 +11,12 @@ export const ApresentacaoHome = () => {
       <Resumo>Engenheiro de Software Full-Stack focado em criar aplicações web escaláveis, APIs robustas e experiências digitais com impacto real.</Resumo>
       <StacksDiv>
         <Icons 
-          src="https://skillicons.dev/icons?i=java" 
-          alt="java"
+          src="https://skillicons.dev/icons?i=react" 
+          alt="react"
+        />
+        <Icons 
+          src="https://skillicons.dev/icons?i=emotion" 
+          alt="emotion"
         />
         <Icons 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg"
@@ -21,14 +25,6 @@ export const ApresentacaoHome = () => {
         <Icons 
           src="https://skillicons.dev/icons?i=spring" 
           alt="springboot"
-        />
-        <Icons 
-          src="https://skillicons.dev/icons?i=ts" 
-          alt="typescript"
-        />
-        <Icons 
-          src="https://skillicons.dev/icons?i=react" 
-          alt="react"
         />
         <Icons 
           src="https://skillicons.dev/icons?i=postgres" 
