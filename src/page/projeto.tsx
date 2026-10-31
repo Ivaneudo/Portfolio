@@ -14,7 +14,7 @@ export const Projetos = () => {
         nome="Raizes Digitais"
         imagem={raizesDigitaisImg}
         altImg="site do movimento vera criança"
-        resumo="Projeto idealizado por m im e pela turma de Informática da EEEP Joaquim Antônio Albano (2023-2025), onde liderei e gerenciei duas ações principais: o desenvolvimento do site para o Movimento Vera Criança e a realização de uma imersão no mundo da tecnologia para turmas do 9º ano do Ensino Fundamental."
+        resumo="Projeto idealizado por mim e pela turma de Informática da EEEP Joaquim Antônio Albano (2023-2025), onde liderei e gerenciei duas ações principais: o desenvolvimento do site para o Movimento Vera Criança e a realização de uma imersão no mundo da tecnologia para turmas do 9º ano do Ensino Fundamental."
         url="https://github.com/veracrianca/movimento"
         link="https://movimentoveracrianca.vercel.app/"
         tecnologias={[
